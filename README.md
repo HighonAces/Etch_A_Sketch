@@ -1,1 +1,1 @@
-# Etch_A_Sketch
+This a odin project assignment.
